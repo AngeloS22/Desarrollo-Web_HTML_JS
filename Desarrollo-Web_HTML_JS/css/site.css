@@ -1,0 +1,38 @@
+body{
+background-color: white;
+}
+abbr {
+    font-style: normal;
+    color: chocolate;
+  }
+
+  .content-titulo{
+    background-color:white;
+    color: slategrey;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: right;
+    width: 700px;
+    height: 50px;
+    text-align: left;
+  }
+  .navbar-brand{
+    width: 100px;
+    height: 100px;
+    background-image: url("/img/logo_dulce-amor.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin: 0px;
+    background-repeat: no-repeat;
+    
+  }
+
+  .content-menu {
+    padding: 5px 0px 0px 0px;
+    height: 145px;
+    width: 100%;
+    background-color:rgb(235, 252, 246);
+}
+.form-buscar{
+  padding: 0;
+}
