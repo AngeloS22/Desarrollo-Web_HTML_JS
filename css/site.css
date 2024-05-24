@@ -15,7 +15,7 @@ abbr {
     height: 50px;
     text-align: left;
   }
-  .content-header{
+  .navbar-logo{
     width: 100px;
     height: 100px;
     background-image: url("/img/logo_dulce-amor.png");
@@ -23,11 +23,16 @@ abbr {
     background-position: center;
     border-radius: 50%;
     margin: 0px;
+    background-repeat: no-repeat;
     
   }
+
   .content-menu {
     padding: 5px 0px 0px 0px;
     height: 145px;
     width: 100%;
     background-color:rgb(235, 252, 246);
+}
+.form-buscar{
+  padding: 0;
 }
